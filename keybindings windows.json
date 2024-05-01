@@ -1,10 +1,10 @@
 [
     {
-        "key": "cmd+n",
+        "key": "ctrl+n",
         "command": "-workbench.action.files.newUntitledFile"
     },
     {
-        "key": "cmd+n",
+        "key": "ctrl+n",
         "command": "-extension.vim_ctrl+n",
         "when": "editorTextFocus && vim.active && vim.use<C-n> && !inDebugRepl || vim.active && vim.use<C-n> && !inDebugRepl && vim.mode == 'CommandlineInProgress' || vim.active && vim.use<C-n> && !inDebugRepl && vim.mode == 'SearchInProgressMode'"
     },
@@ -15,12 +15,12 @@
     },
     {
         "command": "workbench.action.toggleSidebarVisibility",
-        "key": "cmd+e",
+        "key": "ctrl+e",
         "when": "filesExplorerFocus"
     },
     {
         "command": "workbench.files.action.focusFilesExplorer",
-        "key": "cmd+e",
+        "key": "ctrl+e",
         "when": "!filesExplorerFocus"
     },
 ]
