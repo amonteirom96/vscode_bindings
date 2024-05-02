@@ -16,7 +16,7 @@
     {
         "command": "workbench.action.toggleSidebarVisibility",
         "key": "cmd+e",
-        "when": "filesExplorerFocus"
+        "when": "filesExplorerFocus && !inputFocus"
     },
     {
         "command": "workbench.files.action.focusFilesExplorer",
