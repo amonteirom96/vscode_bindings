@@ -1,5 +1,6 @@
 {
   "editor.fontLigatures": true,
+  "window.titleBarStyle": "custom",
   "editor.cursorSmoothCaretAnimation": "on",
   "workbench.list.smoothScrolling": true,
   "editor.smoothScrolling": true,
@@ -46,7 +47,12 @@
   "vim.highlightedyank.enable": true,
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#7EEA7E",
-    "terminalCursor.foreground": "#7EEA7E"
+    "terminalCursor.foreground": "#7EEA7E",
+    "titleBar.activeBackground": "#025f4c",
+    "titleBar.activeForeground":"#d1fff7",
+    "statusBar.activeBackground": "#025f4c",
+    "statusBar.background": "#025f4c",
+    "statusBar.foreground":"#d1fff7",
   },
   "vim.normalModeKeyBindingsNonRecursive": [
     // NAVIGATION
