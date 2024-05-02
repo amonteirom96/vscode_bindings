@@ -274,14 +274,4 @@
   "workbench.startupEditor": "none",
   "debug.showInStatusBar": "never",
   "errorLens.statusBarIconsEnabled": true,
-  // "[typescriptreact]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // },
-  // "go.toolsManagement.autoUpdate": true,
-  // "[typescript]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // },
-  // "[jsonc]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // }
 }
