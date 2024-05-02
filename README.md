@@ -1,5 +1,5 @@
 ### Install extensions
 - Rust
 - PHP Intelipense
-- Monokai Pro
+- catppuccin
 - VIM
