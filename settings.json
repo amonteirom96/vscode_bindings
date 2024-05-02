@@ -20,12 +20,11 @@
     }
   ],
   "workbench.activityBar.location": "bottom",
-  "editor.fontSize": 18,
+  "editor.fontSize": 15,
   "workbench.editor.showTabs": "single",
   "vim.cursorStylePerMode.insert": "block",
   "git.enableSmartCommit": true,
   "window.menuBarVisibility": "compact",
-  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
   "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
   "diffEditor.maxComputationTime": 0,
   "workbench.settings.editor": "json",
@@ -275,4 +274,5 @@
   "debug.showInStatusBar": "never",
   "errorLens.statusBarIconsEnabled": true,
   "editor.accessibilitySupport": "off",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
 }
