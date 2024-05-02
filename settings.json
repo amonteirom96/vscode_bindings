@@ -41,16 +41,19 @@
   "zenMode.hideLineNumbers": false,
   "vim.leader": "<Space>",
   "vim.hlsearch": true,
-  "vim.highlightedyank.color": "#7EEA7E",
-  "vim.highlightedyank.textColor": "#3F7545",
+  "vim.highlightedyank.color": "#51a388",
+  "vim.highlightedyank.textColor": "#a6fadf",
   "vim.highlightedyank.duration": 1000,
   "vim.highlightedyank.enable": true,
   "workbench.colorCustomizations": {
-    "editorCursor.foreground": "#7EEA7E",
-    "terminalCursor.foreground": "#7EEA7E",
-    "statusBar.activeBackground": "#025f4c",
-    "statusBar.background": "#025f4c",
-    "statusBar.foreground":"#d1fff7",
+    "editorCursor.foreground": "#51a388",
+    "editorCursor.background": "#a6fadf",
+    "terminalCursor.foreground": "#51a388",
+    "statusBar.background": "#191919",
+    "statusBar.foreground": "#4cc37c",
+    "statusBar.debuggingBackground": "#191919",
+    "statusBar.debuggingForeground": "#4cc37c",
+    "editor.selectionBackground": "#51a38847",
   },
   "vim.normalModeKeyBindingsNonRecursive": [
     // NAVIGATION
@@ -269,6 +272,8 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.editorActionsLocation": "hidden",
   "workbench.startupEditor": "none",
+  "debug.showInStatusBar": "never",
+  "errorLens.statusBarIconsEnabled": true,
   // "[typescriptreact]": {
   //   "editor.defaultFormatter": "esbenp.prettier-vscode"
   // },
