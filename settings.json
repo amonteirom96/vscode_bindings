@@ -1,4 +1,5 @@
 {
+  "editor.fontLigatures": true,
   "editor.cursorSmoothCaretAnimation": "on",
   "workbench.list.smoothScrolling": true,
   "editor.smoothScrolling": true,
@@ -23,8 +24,8 @@
   "vim.cursorStylePerMode.insert": "block",
   "git.enableSmartCommit": true,
   "window.menuBarVisibility": "compact",
-  "workbench.colorTheme": "Monokai Pro (Filter Machine)",
-  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
   "diffEditor.maxComputationTime": 0,
   "workbench.settings.editor": "json",
   "editor.suggest.insertMode": "replace",
@@ -263,6 +264,7 @@
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
   "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.startupEditor": "none",
   // "[typescriptreact]": {
   //   "editor.defaultFormatter": "esbenp.prettier-vscode"
   // },
