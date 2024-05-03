@@ -54,6 +54,7 @@
     "statusBar.debuggingForeground": "#383f57",
     "editor.selectionBackground": "#8caaee47",
   },
+  "window.zoomLevel": 1,
   "vim.normalModeKeyBindingsNonRecursive": [
     // NAVIGATION
     // switch b/w buffers
