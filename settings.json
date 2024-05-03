@@ -39,21 +39,21 @@
   "zenMode.hideLineNumbers": false,
   "vim.leader": "<Space>",
   "vim.hlsearch": true,
-  "vim.highlightedyank.color": "#53b3b1",
+  "vim.highlightedyank.color": "#8ed162",
   "vim.highlightedyank.textColor": "#232222",
   "vim.highlightedyank.duration": 1000,
   "vim.highlightedyank.enable": true,
   "workbench.colorCustomizations": {
-    "editorCursor.foreground": "#53b3b1",
+    "editorCursor.foreground": "#8ed162",
     "editorCursor.background": "#232222",
-    "terminalCursor.foreground": "#53b3b1",
-    "statusBar.background": "#53b3b1",
+    "terminalCursor.foreground": "#8ed162",
+    "statusBar.background": "#8ed162",
     "statusBar.foreground": "#232222",
-    "statusBar.debuggingBackground": "#53b3b1",
+    "statusBar.debuggingBackground": "#8ed162",
     "statusBar.debuggingForeground": "#232222",
     "editor.selectionBackground": "#53b3a342",
-    "statusBarItem.remoteBackground": "#53b3b1",
-    "statusBarItem.remoteForeground": "#53b3b1"
+    "statusBarItem.remoteBackground": "#8ed162",
+    "statusBarItem.remoteForeground": "#8ed162"
   },
   "window.zoomLevel": 1,
   "vim.normalModeKeyBindingsNonRecursive": [
