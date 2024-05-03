@@ -4,3 +4,4 @@ keybindings.json
 .DS_Store
 History
 workspaceStorage
+sync/*
