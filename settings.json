@@ -39,7 +39,7 @@
   "zenMode.hideLineNumbers": false,
   "vim.leader": "<Space>",
   "vim.hlsearch": true,
-  "vim.highlightedyank.color": "#3d9f649f",
+  "vim.highlightedyank.color": "#3d9f643a",
   "vim.highlightedyank.textColor": "#5bec95",
   "vim.highlightedyank.duration": 2000,
   "vim.highlightedyank.enable": true,
