@@ -53,7 +53,11 @@
     "statusBar.debuggingForeground": "#553f73",
     "editor.selectionBackground": "#553f736e",
     "statusBarItem.remoteBackground": "#5bec95",
-    "statusBarItem.remoteForeground": "#5bec95"
+    "statusBarItem.remoteForeground": "#5bec95",
+    "statusBarItem.errorBackground": "#553f73",
+    "statusBarItem.errorForeground": "#5bec95",
+    "statusBarItem.warningBackground": "#553f73",
+    "statusBarItem.warningForeground": "#5bec95",
   },
   "window.zoomLevel": 1,
   "vim.normalModeKeyBindingsNonRecursive": [
