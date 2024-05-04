@@ -39,9 +39,9 @@
   "zenMode.hideLineNumbers": false,
   "vim.leader": "<Space>",
   "vim.hlsearch": true,
-  "vim.highlightedyank.color": "#553f736e",
+  "vim.highlightedyank.color": "#553f73a1",
   "vim.highlightedyank.textColor": "#5bec95",
-  "vim.highlightedyank.duration": 1000,
+  "vim.highlightedyank.duration": 2000,
   "vim.highlightedyank.enable": true,
   "workbench.colorCustomizations": {
     "editorCursor.foreground": "#5bec95",
