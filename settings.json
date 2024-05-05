@@ -34,12 +34,12 @@
   "launch": {},
   "[json]": {},
   "workbench.statusBar.visible": true,
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
   "update.showReleaseNotes": false,
   "zenMode.hideLineNumbers": false,
   "vim.leader": "<Space>",
   "vim.hlsearch": true,
-  "vim.highlightedyank.color": "#3d9f643a",
+  "vim.highlightedyank.color": "#5bec9517",
   "vim.highlightedyank.textColor": "#5bec95",
   "vim.highlightedyank.duration": 2000,
   "vim.highlightedyank.enable": true,
@@ -48,12 +48,16 @@
     "editorCursor.background": "#553f73",
     "terminalCursor.foreground": "#5bec95",
     "terminalCursor.background": "#553f73",
+    "editorLineNumber.activeForeground": "#5bec95",
+    "editor.lineHighlightBorder": "#5bec95",
+    "editor.selectionHighlightBackground": "#5bec9517",
+    "editor.selectionHighlightBorder": "#5bec95",
     "terminal.ansiBlack": "#5bec95",
     "statusBar.background": "#5bec95",
     "statusBar.foreground": "#553f73",
-    "statusBar.debuggingBackground": "#5bec95",
-    "statusBar.debuggingForeground": "#553f73",
-    "editor.selectionBackground": "#553f736e",
+    "statusbar.debuggingbackground": "#5bec95",
+    "statusbar.debuggingforeground": "#553f73",
+    "editor.selectionBackground": "#3d9f643a",
     "statusBarItem.remoteBackground": "#5bec95",
     "statusBarItem.remoteForeground": "#5bec95",
     "statusBarItem.errorBackground": "#553f73",
@@ -227,6 +231,15 @@
       "commands": [
         "editor.action.showDefinitionPreviewHover"
       ]
+    },
+    {
+      "before": [
+        "leader",
+        "b"
+      ],
+      "commands": [
+        "workbench.action.showAllEditorsByMostRecentlyUsed"
+      ]
     }
   ],
   "vim.visualModeKeyBindings": [
@@ -264,16 +277,7 @@
         "editor.action.moveLinesUpAction"
       ]
     },
-    // toggle comment selection
-    {
-      "before": [
-        "leader",
-        "c"
-      ],
-      "commands": [
-        "editor.action.commentLine"
-      ]
-    }
+    
   ],
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
