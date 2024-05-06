@@ -277,7 +277,6 @@
         "editor.action.moveLinesUpAction"
       ]
     },
-    
   ],
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
@@ -287,4 +286,6 @@
   "errorLens.statusBarIconsEnabled": true,
   "editor.accessibilitySupport": "off",
   "workbench.colorTheme": "Copilot Theme",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
 }
