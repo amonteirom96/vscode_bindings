@@ -54,6 +54,8 @@
     "editor.selectionHighlightBorder": "#5bec95",
     "editor.selectionBackground": "#223120",
     "terminal.ansiBlack": "#5bec95",
+    "statusBar.noFolderBackground": "#5bec95",
+    "statusBar.noFolderForeground": "#223120",
     "statusBar.background": "#5bec95",
     "statusBar.foreground": "#223120",
     "statusbar.debuggingbackground": "#5bec95",
