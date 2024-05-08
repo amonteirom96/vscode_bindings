@@ -23,4 +23,9 @@
         "key": "cmd+e",
         "when": "!filesExplorerFocus"
     },
+    {
+        "command": "workbench.files.action.collapseExplorerFolders",
+        "key": "cmd+0",
+        "when": "filesExplorerFocus"
+    }
 ]
