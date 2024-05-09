@@ -290,4 +290,5 @@
   "workbench.colorTheme": "Tokyo Night",
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
+  "window.menuBarVisibility": "compact",
 }
