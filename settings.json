@@ -25,7 +25,8 @@
   "diffEditor.maxComputationTime": 0,
   "workbench.settings.editor": "json",
   "editor.suggest.insertMode": "replace",
-  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "bold",
   "editor.fontFamily": "'Hack Nerd Font'", // HackNerdFont-Regular
   "terminal.integrated.fontFamily": "'Hack Nerd Font'", // HackNerdFont-Regular
   "editor.fontSize": 15,
