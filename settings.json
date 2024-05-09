@@ -25,7 +25,9 @@
   "diffEditor.maxComputationTime": 0,
   "workbench.settings.editor": "json",
   "editor.suggest.insertMode": "replace",
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 13,
+  "editor.fontFamily": "'Hack Nerd Font'", // HackNerdFont-Regular
+  "terminal.integrated.fontFamily": "'Hack Nerd Font'", // HackNerdFont-Regular
   "editor.fontSize": 15,
   "editor.fontLigatures": true,
   "editor.linkedEditing": true,
@@ -286,4 +288,6 @@
   "symbols.hidesExplorerArrows": false,
   "workbench.iconTheme": "symbols",
   "workbench.colorTheme": "Tokyo Night",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
 }
